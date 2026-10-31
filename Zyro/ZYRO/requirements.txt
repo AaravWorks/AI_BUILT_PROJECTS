@@ -1,0 +1,4 @@
+opencv-python>=4.10
+mediapipe>=1.0.1
+pygetwindow>=0.0.9
+numpy>=2.0
